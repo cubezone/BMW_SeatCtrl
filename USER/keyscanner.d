@@ -1,0 +1,9 @@
+.\keyscanner.o: ..\KEYBOARD\keyscanner.c
+.\keyscanner.o: ..\KEYBOARD\keyscanner.h
+.\keyscanner.o: ..\USER\stm32f10x_map.h
+.\keyscanner.o: ..\USER\stm32f10x_conf.h
+.\keyscanner.o: ..\USER\stm32f10x_type.h
+.\keyscanner.o: ..\USER\cortexm3_macro.h
+.\keyscanner.o: ..\USER\stm32f10x_nvic.h
+.\keyscanner.o: ..\SYSTEM\delay\delay.h
+.\keyscanner.o: ..\SYSTEM\sys\sys.h

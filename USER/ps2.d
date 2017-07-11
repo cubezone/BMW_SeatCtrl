@@ -1,0 +1,12 @@
+.\ps2.o: ..\PS2\ps2.c
+.\ps2.o: ..\PS2\ps2.h
+.\ps2.o: ..\SYSTEM\delay\delay.h
+.\ps2.o: ..\USER\stm32f10x_map.h
+.\ps2.o: ..\USER\stm32f10x_conf.h
+.\ps2.o: ..\USER\stm32f10x_type.h
+.\ps2.o: ..\USER\cortexm3_macro.h
+.\ps2.o: ..\USER\stm32f10x_nvic.h
+.\ps2.o: ..\SYSTEM\sys\sys.h
+.\ps2.o: ..\SYSTEM\usart\usart.h
+.\ps2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\ps2.o: ..\PS2\keyboard.h

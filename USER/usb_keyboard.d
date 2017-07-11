@@ -1,0 +1,9 @@
+.\usb_keyboard.o: ..\KEYBOARD\usb_keyboard.c
+.\usb_keyboard.o: ..\KEYBOARD\usb_keyboard.h
+.\usb_keyboard.o: ..\USER\stm32f10x_map.h
+.\usb_keyboard.o: ..\USER\stm32f10x_conf.h
+.\usb_keyboard.o: ..\USER\stm32f10x_type.h
+.\usb_keyboard.o: ..\USER\cortexm3_macro.h
+.\usb_keyboard.o: ..\USB\CONFIG\hw_config.h
+.\usb_keyboard.o: ..\USB\LIB\usb_type.h
+.\usb_keyboard.o: ..\USB\CONFIG\usb_conf.h

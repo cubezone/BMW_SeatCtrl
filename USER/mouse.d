@@ -1,0 +1,12 @@
+.\mouse.o: ..\PS2\mouse.c
+.\mouse.o: ..\PS2\mouse.h
+.\mouse.o: ..\PS2\ps2.h
+.\mouse.o: ..\SYSTEM\delay\delay.h
+.\mouse.o: ..\USER\stm32f10x_map.h
+.\mouse.o: ..\USER\stm32f10x_conf.h
+.\mouse.o: ..\USER\stm32f10x_type.h
+.\mouse.o: ..\USER\cortexm3_macro.h
+.\mouse.o: ..\USER\stm32f10x_nvic.h
+.\mouse.o: ..\SYSTEM\sys\sys.h
+.\mouse.o: ..\SYSTEM\usart\usart.h
+.\mouse.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
